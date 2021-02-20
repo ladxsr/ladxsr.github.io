@@ -11,4 +11,4 @@ Other Pages:
 * [Versions](/versions)
 * [Wrong Warp](/ww)
 
-<iframe src="https://discord.com/widget?id=104260235236999168&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<a href="https://discord.gg/EARy4Eb"><img src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg" width="250px" alt="Join our Discord community"/></a>
