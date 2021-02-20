@@ -10,7 +10,7 @@ The differences between glitched maps are directly dependent upon your kill coun
 ## How to Perform
 There are two known ways of Wrong Warping.
 
-###Doghouse Method
+### Doghouse Method
 
 1. Destroy the desired number of enemies for the particular glitched map. See Chest Guide for more information.
 2. Head to Madam Meow-Meow's house in Mabe Village.
