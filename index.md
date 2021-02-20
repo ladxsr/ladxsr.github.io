@@ -10,3 +10,5 @@ Other Pages:
 * [Out of Bounds](/oob)
 * [Versions](/versions)
 * [Wrong Warp](/ww)
+
+<iframe src="https://discord.com/widget?id=104260235236999168&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
