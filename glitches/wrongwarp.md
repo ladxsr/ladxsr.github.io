@@ -5,6 +5,7 @@
     text-align: center;
   }
 </style>
+
 # Wrong Warp
 *Not to be confused with [screen wrapping](/glitches/screenwrap)*
 
