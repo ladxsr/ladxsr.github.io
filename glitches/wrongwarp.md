@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/static/css/tables-min.css" />
 # Wrong Warp
 *Not to be confused with [screen wrapping](/glitches/screenwrap)*
 
@@ -36,12 +37,32 @@ Note that, although this method is convenient, it is less predictable as it can 
 Each room can have 4 warp points, numbered from 0 to 3. The tile positions of these warps are stored in RAM at D416-D419. Each warp has 5 bytes of data describing the post-warp destination at D401, D406, D40B, and D410, respectively. For example, warp 0's data (whose tile position is stored at D416) is stored in these 5 bytes:
 
 **Warp 0 Destination Bytes**
-Address | Purpose
--- | --
-D401 | Map Category
-D402 | Sub-Map
-D403 | Room
-D404-D405 | Post-warp X and Y pixel positions (respectively)
+<table class="pure-table pure-table-striped pure-table-bordered">
+  <thead>
+    <tr>
+      <th>Address</th>
+      <th>Purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>D401</td>
+      <td>Map Category</td>
+    </tr>
+    <tr>
+      <td>D402</td>
+      <td>Sub-Map</td>
+    </tr>
+    <tr>
+      <td>D403</td>
+      <td>Room</td>
+    </tr>
+    <tr>
+      <td>D404-D405</td>
+      <td>Post-warp X and Y pixel positions (respectively)</td>
+    </tr>
+  </tbody>
+</table>
 
 When you touch a warp, the game will check the 4 bytes at D416-D419 to see if one of them corresponds to Link's position. If none of them do, the game attempts to load the invalid "warp 4" (the 5th warp, since this is counting from 0). This occurs when touching a door from the top. It loads from these bytes:
 
