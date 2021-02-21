@@ -1,3 +1,6 @@
+---
+title: "Wrong Warp"
+---
 <link rel="stylesheet" href="/static/css/tables-min.css" />
 
 # Wrong Warp
