@@ -1,10 +1,4 @@
 <link rel="stylesheet" href="/static/css/tables-min.css" />
-<style>
-  .pure-table thead tr td {
-    font-weight: bold;
-    text-align: center;
-  }
-</style>
 
 # Wrong Warp
 *Not to be confused with [screen wrapping](/glitches/screenwrap)*
