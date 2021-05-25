@@ -7,7 +7,7 @@ Other Pages:
 * [Categories](/categories)
 * [Glitches](/glitches)
 * [Mechanics](/mechanics)
-* [Out of Bounds](/oob)
+* [Out of Bounds](/rules/oob)
 * [Versions](/versions)
 * [Wrong Warp](/glitches/wrongwarp)
 
